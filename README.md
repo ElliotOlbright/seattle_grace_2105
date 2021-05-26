@@ -80,7 +80,7 @@ Use TDD to create a `Network` class that responds to the following interaction p
 pry(main)> require './lib/doctor'
 # => true
 
-pry(main)> require './lib/hospital'
+pry(main)> require './lib/doctor'
 # => true
 
 pry(main)> require './lib/network'
